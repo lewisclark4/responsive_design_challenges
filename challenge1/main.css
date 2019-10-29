@@ -1,0 +1,16 @@
+.column {
+    float: left;
+    background-color: #000;
+    height: 50px;
+    width: 100%;
+    margin: 10px 0;
+}
+
+
+@media (min-width: 992px) {
+    .column {
+    width: 30%;
+    margin: 10px;
+    }
+}
+
