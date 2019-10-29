@@ -8,7 +8,7 @@
 }
 
 @ media (min-width: 768px){
-    .image{
+    .image {
         width: 800px;
         height: 600px;
         background-image: url("http://placekitten.com/g/800/600");
